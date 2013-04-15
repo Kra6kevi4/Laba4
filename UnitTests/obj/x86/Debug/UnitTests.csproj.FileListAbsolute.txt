@@ -18,3 +18,8 @@ C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Debug\UnitTest
 C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\bin\Debug\UnitTests.exe
 C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
 C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stud\Documents\GitHub\UnitTests\UnitTests\obj\x86\Debug\UnitTests.exe
+C:\Users\stud\Documents\GitHub\UnitTests\UnitTests\obj\x86\Debug\UnitTests.pdb
+C:\Users\stud\Documents\GitHub\UnitTests\UnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stud\Documents\GitHub\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+C:\Users\stud\Documents\GitHub\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
