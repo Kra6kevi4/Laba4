@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1ac40f2e-d305-4104-bf87-3a641c68c2ae" name="WORKGROUP@WORKGROUP-ПК 2013-03-04 11:06:46" runUser="WORKGROUP-ПК\WORKGROUP" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="665aae16-0060-4d5a-abae-617da4ed758f">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="WORKGROUP_WORKGROUP-ПК 2013-03-04 11_06_46">
+      <DeploymentItem filename="C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\bin\Debug\UnitTests.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-04T11:06:46.5464351+07:00" queuing="2013-03-04T11:06:47.8735110+07:00" start="2013-03-04T11:06:47.9595159+07:00" finish="2013-03-04T11:06:49.5126047+07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetVolumeTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject3\bin\debug\testproject3.dll" id="42974a1f-a5f4-7a37-3711-cfa90ddcf85c">
+      <Execution id="5b1909a1-7448-4c99-a787-c8a1b250e31a" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject3/bin/Debug/TestProject3.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject3.CylinderTest, TestProject3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetVolumeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="42974a1f-a5f4-7a37-3711-cfa90ddcf85c" executionId="5b1909a1-7448-4c99-a787-c8a1b250e31a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5b1909a1-7448-4c99-a787-c8a1b250e31a" testId="42974a1f-a5f4-7a37-3711-cfa90ddcf85c" testName="GetVolumeTest" computerName="WORKGROUP-ПК" duration="00:00:00.0561735" startTime="2013-03-04T11:06:47.9975181+07:00" endTime="2013-03-04T11:06:49.4005983+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5b1909a1-7448-4c99-a787-c8a1b250e31a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

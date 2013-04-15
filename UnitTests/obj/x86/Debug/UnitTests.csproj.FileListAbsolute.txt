@@ -1,0 +1,20 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\UnitTests\UnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\UnitTests\UnitTests\obj\x86\Debug\UnitTests.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\UnitTests\UnitTests\obj\x86\Debug\UnitTests.pdb
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\UnitTests\obj\x86\Debug\UnitTests.exe
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\UnitTests\obj\x86\Debug\UnitTests.pdb
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\UnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\UnitTests\UnitTests\UnitTests\obj\x86\Debug\UnitTests.exe
+E:\UnitTests\UnitTests\UnitTests\obj\x86\Debug\UnitTests.pdb
+E:\UnitTests\UnitTests\UnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+E:\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Debug\UnitTests.exe
+C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Debug\UnitTests.pdb
+C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
