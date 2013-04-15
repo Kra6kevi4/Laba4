@@ -1,0 +1,5 @@
+c:\Учеба\2 семестр\ТХЯ\UnitTests\BuildArtifacts\TestProject4.dll
+c:\Учеба\2 семестр\ТХЯ\UnitTests\BuildArtifacts\TestProject4.pdb
+c:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\obj\Release\ResolveAssemblyReference.cache
+c:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\obj\Release\TestProject4.dll
+c:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\obj\Release\TestProject4.pdb

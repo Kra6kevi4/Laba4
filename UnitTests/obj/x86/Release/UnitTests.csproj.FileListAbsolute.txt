@@ -1,0 +1,5 @@
+c:\Учеба\2 семестр\ТХЯ\UnitTests\BuildArtifacts\UnitTests.exe
+c:\Учеба\2 семестр\ТХЯ\UnitTests\BuildArtifacts\UnitTests.pdb
+c:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Release\UnitTests.exe
+c:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\obj\x86\Release\UnitTests.pdb

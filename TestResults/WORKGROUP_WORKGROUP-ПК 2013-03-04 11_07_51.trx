@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a20c7954-f802-47c2-b13f-ab208352004e" name="WORKGROUP@WORKGROUP-ПК 2013-03-04 11:07:51" runUser="WORKGROUP-ПК\WORKGROUP" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="665aae16-0060-4d5a-abae-617da4ed758f">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="WORKGROUP_WORKGROUP-ПК 2013-03-04 11_07_51">
+      <DeploymentItem filename="C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\bin\Debug\UnitTests.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-04T11:07:51.8721715+07:00" queuing="2013-03-04T11:07:53.1012418+07:00" start="2013-03-04T11:07:53.1822464+07:00" finish="2013-03-04T11:07:54.8443415+07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetAreaTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="e86269fc-6bfe-4ee7-551b-b1c0344446ec">
+      <Execution id="3e7f2bb7-38cd-4f9a-a4df-9b0d84ef5f03" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetAreaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e86269fc-6bfe-4ee7-551b-b1c0344446ec" executionId="3e7f2bb7-38cd-4f9a-a4df-9b0d84ef5f03" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3e7f2bb7-38cd-4f9a-a4df-9b0d84ef5f03" testId="e86269fc-6bfe-4ee7-551b-b1c0344446ec" testName="GetAreaTest" computerName="WORKGROUP-ПК" duration="00:00:00.1524712" startTime="2013-03-04T11:07:53.2192485+07:00" endTime="2013-03-04T11:07:54.7513362+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e7f2bb7-38cd-4f9a-a4df-9b0d84ef5f03">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.IsTrue. </Message>
+          <StackTrace>   в TestProject1.CylinderTest.GetAreaTest() в C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject1\CylinderTest.cs:строка 184
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

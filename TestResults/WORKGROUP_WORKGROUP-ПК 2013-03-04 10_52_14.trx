@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6f0ea536-2a89-48f5-9776-97a305afaad5" name="WORKGROUP@WORKGROUP-ПК 2013-03-04 10:52:14" runUser="WORKGROUP-ПК\WORKGROUP" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="665aae16-0060-4d5a-abae-617da4ed758f">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="WORKGROUP_WORKGROUP-ПК 2013-03-04 10_52_14">
+      <DeploymentItem filename="C:\Учеба\2 семестр\ТХЯ\UnitTests\UnitTests\bin\Debug\UnitTests.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-04T10:52:14.7405706+07:00" queuing="2013-03-04T10:52:16.5846761+07:00" start="2013-03-04T10:52:16.7136835+07:00" finish="2013-03-04T10:52:21.3589492+07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="10" executed="10" passed="7" error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetExceptionTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject4\bin\debug\testproject4.dll" id="99854b85-200a-1acb-5fc3-8378e710cbd1">
+      <Execution id="1faac19d-b6a1-4577-8777-6d891ab5250d" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject4/bin/Debug/TestProject4.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject4.CylinderTest, TestProject4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetExceptionTest" />
+    </UnitTest>
+    <UnitTest name="GetVolumeTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject3\bin\debug\testproject3.dll" id="42974a1f-a5f4-7a37-3711-cfa90ddcf85c">
+      <Execution id="133a0900-46a3-4a48-b5be-abe05234ae21" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject3/bin/Debug/TestProject3.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject3.CylinderTest, TestProject3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetVolumeTest" />
+    </UnitTest>
+    <UnitTest name="CylinderConstructorTest1" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="b80659c6-c9be-0d9d-2d70-1452362d89a5">
+      <Execution id="299ceda6-f387-4057-870b-98f3a05a03b9" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CylinderConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="CylinderConstructorTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject2\bin\debug\testproject2.dll" id="f861b2b8-5089-38a7-2877-1c556f41a120">
+      <Execution id="c69826c4-76b6-43f8-b38d-2d514f34227c" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject2.CylinderTest, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CylinderConstructorTest" />
+    </UnitTest>
+    <UnitTest name="RadiusTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="47f57222-81d7-74ea-bee6-4e8c5653e57d">
+      <Execution id="1a31c04b-1e22-497e-966a-29073a700363" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RadiusTest" />
+    </UnitTest>
+    <UnitTest name="GetDiametrTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="830d1892-e3e8-4b23-a8e5-832f1f54e2f9">
+      <Execution id="516cd4a3-185c-44c3-bacd-78581c117e25" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetDiametrTest" />
+    </UnitTest>
+    <UnitTest name="GetVolumeTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="cf65de78-94f4-fde4-1afc-610506c22c14">
+      <Execution id="ad7bbc2c-2def-457f-a42c-1d64429f090a" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetVolumeTest" />
+    </UnitTest>
+    <UnitTest name="GetAreaTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="e86269fc-6bfe-4ee7-551b-b1c0344446ec">
+      <Execution id="9de2fe1f-c371-4fd1-bc99-21893bc4ced3" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetAreaTest" />
+    </UnitTest>
+    <UnitTest name="CylinderConstructorTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="aee924af-f119-7877-ebae-d70f2d2386ca">
+      <Execution id="30715961-1724-4cbb-bc6e-58253973651b" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CylinderConstructorTest" />
+    </UnitTest>
+    <UnitTest name="HeigthTest" storage="c:\учеба\2 семестр\тхя\unittests\testproject1\bin\debug\testproject1.dll" id="8296f8f6-c48e-8749-e508-51c5a1c2102a">
+      <Execution id="65075890-8a99-49cd-ac84-ce1efb78b1d0" />
+      <TestMethod codeBase="C:/Учеба/2 семестр/ТХЯ/UnitTests/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CylinderTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HeigthTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="42974a1f-a5f4-7a37-3711-cfa90ddcf85c" executionId="133a0900-46a3-4a48-b5be-abe05234ae21" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47f57222-81d7-74ea-bee6-4e8c5653e57d" executionId="1a31c04b-1e22-497e-966a-29073a700363" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8296f8f6-c48e-8749-e508-51c5a1c2102a" executionId="65075890-8a99-49cd-ac84-ce1efb78b1d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="830d1892-e3e8-4b23-a8e5-832f1f54e2f9" executionId="516cd4a3-185c-44c3-bacd-78581c117e25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99854b85-200a-1acb-5fc3-8378e710cbd1" executionId="1faac19d-b6a1-4577-8777-6d891ab5250d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aee924af-f119-7877-ebae-d70f2d2386ca" executionId="30715961-1724-4cbb-bc6e-58253973651b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b80659c6-c9be-0d9d-2d70-1452362d89a5" executionId="299ceda6-f387-4057-870b-98f3a05a03b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf65de78-94f4-fde4-1afc-610506c22c14" executionId="ad7bbc2c-2def-457f-a42c-1d64429f090a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e86269fc-6bfe-4ee7-551b-b1c0344446ec" executionId="9de2fe1f-c371-4fd1-bc99-21893bc4ced3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f861b2b8-5089-38a7-2877-1c556f41a120" executionId="c69826c4-76b6-43f8-b38d-2d514f34227c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="133a0900-46a3-4a48-b5be-abe05234ae21" testId="42974a1f-a5f4-7a37-3711-cfa90ddcf85c" testName="GetVolumeTest" computerName="WORKGROUP-ПК" duration="00:00:00.2762658" startTime="2013-03-04T10:52:16.7496856+07:00" endTime="2013-03-04T10:52:17.9397536+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="133a0900-46a3-4a48-b5be-abe05234ae21">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Ожидается: &lt;25,1200008392334&gt;. Фактически: &lt;25,1327412287183&gt;. </Message>
+          <StackTrace>   в TestProject3.CylinderTest.GetVolumeTest() в C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject3\CylinderTest.cs:строка 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1a31c04b-1e22-497e-966a-29073a700363" testId="47f57222-81d7-74ea-bee6-4e8c5653e57d" testName="RadiusTest" computerName="WORKGROUP-ПК" duration="00:00:00.0547877" startTime="2013-03-04T10:52:17.9897565+07:00" endTime="2013-03-04T10:52:18.8898080+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a31c04b-1e22-497e-966a-29073a700363">
+    </UnitTestResult>
+    <UnitTestResult executionId="65075890-8a99-49cd-ac84-ce1efb78b1d0" testId="8296f8f6-c48e-8749-e508-51c5a1c2102a" testName="HeigthTest" computerName="WORKGROUP-ПК" duration="00:00:00.0012452" startTime="2013-03-04T10:52:18.9108092+07:00" endTime="2013-03-04T10:52:18.9338105+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="65075890-8a99-49cd-ac84-ce1efb78b1d0">
+    </UnitTestResult>
+    <UnitTestResult executionId="516cd4a3-185c-44c3-bacd-78581c117e25" testId="830d1892-e3e8-4b23-a8e5-832f1f54e2f9" testName="GetDiametrTest" computerName="WORKGROUP-ПК" duration="00:00:00.0013021" startTime="2013-03-04T10:52:18.9828133+07:00" endTime="2013-03-04T10:52:19.0048145+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="516cd4a3-185c-44c3-bacd-78581c117e25">
+    </UnitTestResult>
+    <UnitTestResult executionId="1faac19d-b6a1-4577-8777-6d891ab5250d" testId="99854b85-200a-1acb-5fc3-8378e710cbd1" testName="GetExceptionTest" computerName="WORKGROUP-ПК" duration="00:00:00.0592231" startTime="2013-03-04T10:52:19.0208155+07:00" endTime="2013-03-04T10:52:19.8878650+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1faac19d-b6a1-4577-8777-6d891ab5250d">
+    </UnitTestResult>
+    <UnitTestResult executionId="30715961-1724-4cbb-bc6e-58253973651b" testId="aee924af-f119-7877-ebae-d70f2d2386ca" testName="CylinderConstructorTest" computerName="WORKGROUP-ПК" duration="00:00:00.0013866" startTime="2013-03-04T10:52:19.9158666+07:00" endTime="2013-03-04T10:52:19.9458684+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30715961-1724-4cbb-bc6e-58253973651b">
+    </UnitTestResult>
+    <UnitTestResult executionId="299ceda6-f387-4057-870b-98f3a05a03b9" testId="b80659c6-c9be-0d9d-2d70-1452362d89a5" testName="CylinderConstructorTest1" computerName="WORKGROUP-ПК" duration="00:00:00.0005795" startTime="2013-03-04T10:52:19.9608692+07:00" endTime="2013-03-04T10:52:19.9818704+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="299ceda6-f387-4057-870b-98f3a05a03b9">
+    </UnitTestResult>
+    <UnitTestResult executionId="ad7bbc2c-2def-457f-a42c-1d64429f090a" testId="cf65de78-94f4-fde4-1afc-610506c22c14" testName="GetVolumeTest" computerName="WORKGROUP-ПК" duration="00:00:00.0676455" startTime="2013-03-04T10:52:19.9998715+07:00" endTime="2013-03-04T10:52:20.0918767+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad7bbc2c-2def-457f-a42c-1d64429f090a">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Ожидается: &lt;25,1327419281006&gt;. Фактически: &lt;25,1327412287183&gt;. </Message>
+          <StackTrace>   в TestProject1.CylinderTest.GetVolumeTest() в C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject1\CylinderTest.cs:строка 93
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9de2fe1f-c371-4fd1-bc99-21893bc4ced3" testId="e86269fc-6bfe-4ee7-551b-b1c0344446ec" testName="GetAreaTest" computerName="WORKGROUP-ПК" duration="00:00:00.0074202" startTime="2013-03-04T10:52:20.1348792+07:00" endTime="2013-03-04T10:52:20.1638808+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9de2fe1f-c371-4fd1-bc99-21893bc4ced3">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Ожидается: &lt;50,2654838562012&gt;. Фактически: &lt;50,2654824574367&gt;. </Message>
+          <StackTrace>   в TestProject1.CylinderTest.GetAreaTest() в C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject1\CylinderTest.cs:строка 184
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c69826c4-76b6-43f8-b38d-2d514f34227c" testId="f861b2b8-5089-38a7-2877-1c556f41a120" testName="CylinderConstructorTest" computerName="WORKGROUP-ПК" duration="00:00:00.0569821" startTime="2013-03-04T10:52:20.1738814+07:00" endTime="2013-03-04T10:52:21.1429368+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c69826c4-76b6-43f8-b38d-2d514f34227c">
+    </UnitTestResult>
+  </Results>
+</TestRun>

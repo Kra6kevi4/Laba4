@@ -1,0 +1,28 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\UnitTests\TestProject4\bin\Debug\TestProject4.dll
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\UnitTests\TestProject4\bin\Debug\TestProject4.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\UnitTests\TestProject4\bin\Debug\UnitTests.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\UnitTests\TestProject4\bin\Debug\UnitTests.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\UnitTests\TestProject4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\UnitTests\TestProject4\obj\Debug\TestProject4.dll
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\UnitTests\TestProject4\obj\Debug\TestProject4.pdb
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\TestProject4\bin\Debug\TestProject4.dll
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\TestProject4\bin\Debug\TestProject4.pdb
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\TestProject4\bin\Debug\UnitTests.exe
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\TestProject4\bin\Debug\UnitTests.pdb
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\TestProject4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\TestProject4\obj\Debug\TestProject4.dll
+C:\Documents and Settings\User\Мои документы\Downloads\UnitTests\UnitTests\TestProject4\obj\Debug\TestProject4.pdb
+E:\UnitTests\UnitTests\TestProject4\obj\Debug\ResolveAssemblyReference.cache
+E:\UnitTests\UnitTests\TestProject4\obj\Debug\TestProject4.dll
+E:\UnitTests\UnitTests\TestProject4\bin\Debug\TestProject4.dll
+E:\UnitTests\UnitTests\TestProject4\bin\Debug\TestProject4.pdb
+E:\UnitTests\UnitTests\TestProject4\bin\Debug\UnitTests.exe
+E:\UnitTests\UnitTests\TestProject4\bin\Debug\UnitTests.pdb
+E:\UnitTests\UnitTests\TestProject4\obj\Debug\TestProject4.pdb
+C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\bin\Debug\TestProject4.dll
+C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\bin\Debug\TestProject4.pdb
+C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\bin\Debug\UnitTests.exe
+C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\bin\Debug\UnitTests.pdb
+C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\obj\Debug\ResolveAssemblyReference.cache
+C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\obj\Debug\TestProject4.dll
+C:\Учеба\2 семестр\ТХЯ\UnitTests\TestProject4\obj\Debug\TestProject4.pdb
